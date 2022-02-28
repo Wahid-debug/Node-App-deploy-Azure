@@ -1,0 +1,20 @@
+{
+  "name": "Node-App-Deploy-Azure",
+  "version": "1.0.0",
+  "description": "Node js app deploy on Microsoft Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wahid-debug/Node-App-Deploy-Azure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wahid-debug/Node-App-Deploy-Azure/issues"
+  },
+  "homepage": "https://github.com/Wahid-debug/Node-App-Deploy-Azure#readme"
+}
