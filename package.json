@@ -1,10 +1,11 @@
 {
-  "name": "Node-App-Deploy-Azure",
+  "name": "node-app-deploy-azure",
   "version": "1.0.0",
   "description": "Node js app deploy on Microsoft Azure",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
