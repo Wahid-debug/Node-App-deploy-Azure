@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/Wahid-debug/Node-App-Deploy-Azure/issues"
   },
-  "homepage": "https://github.com/Wahid-debug/Node-App-Deploy-Azure#readme"
+  "homepage": "https://github.com/Wahid-debug/Node-App-Deploy-Azure#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "engines": {
+    "node": "14.16.1",
+    "npm": "6.14.12"
+  }
 }
