@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -21,9 +20,5 @@
   "homepage": "https://github.com/Wahid-debug/Node-App-Deploy-Azure#readme",
   "dependencies": {
     "express": "^4.17.3"
-  },
-  "engines": {
-    "node": "14.16.1",
-    "npm": "6.14.12"
   }
 }
