@@ -5,9 +5,6 @@ const port = process.env.PORT || 5000
 app.get("/", (req,res)=> {
     res.send("This is server1")
 })
-app.get("/about", (req,res)=> {
-    res.send("This is about")
-})
 app.listen(5000, ()=> {
     console.log("Server Running on Port 5000")
 })
